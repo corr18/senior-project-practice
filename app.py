@@ -1,1 +1,6 @@
-
+print("Senior Project Developer Profile")
+print()
+print("Name: Caleb Nathaniel Orr")
+print("Major: Computer Science")
+print("Technology Interest: Artificial Intelligence")
+print("Skill Goal: Full-Stack Web Development")
